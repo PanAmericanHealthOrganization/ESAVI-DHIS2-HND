@@ -1,0 +1,25 @@
+{
+   
+    "organisationUnitGroups": [
+        {
+            "code": "HC",
+            "name": "Hospital Centinela ",
+            "id": "WBsKWinbYo9",
+            "shortName": "Hospital Centinela ",
+            "attributeValues": [],
+            "translations": [],
+            "organisationUnits": [
+            ]
+        },
+        {
+            "code": "HNC",
+            "name": "Hospital no Centinela ",
+            "id": "K819wu5bSfL",
+            "shortName": "Hospital no Centinela",
+            "attributeValues": [],
+            "translations": [],
+            "organisationUnits": [
+            ]
+        }
+    ]
+}
